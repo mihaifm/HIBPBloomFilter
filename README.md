@@ -9,9 +9,9 @@ For convenience however, you can download the filter directly from this reposito
 
 ### Bloom Filter characteristics
 
-**Size**: 952 MB    
+**Size**: 1.03 GB    
 **False positive rate**: approx. 0.1%    
-**Capacity**: 551509767 items (hashed passwords)    
+**Capacity**: 613584246 items (hashed passwords)    
 **Hashing algorithm**: [MurMurHash3](http://blog.teamleadnet.com/2012/08/murmurhash3-ultra-fast-hash-algorithm.html)
 
 ### Binary file format
